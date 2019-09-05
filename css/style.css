@@ -11,3 +11,7 @@ a:hover {
     color: #fdc32e;
     text-decoration: none;
 }
+.header-orange-line {
+    background-color: #fdc32e;
+    height: 20px;
+}
