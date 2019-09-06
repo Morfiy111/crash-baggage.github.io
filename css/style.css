@@ -61,6 +61,9 @@ a:focus {
     border-radius: 5px;
     padding: 2px 20px;
 }
+.header-cart-buy a:hover {
+    background-color: #fdc32e;
+}
 .cart-absolut-number {
     background-color: #fdc32e;
     border-radius: 50px;
