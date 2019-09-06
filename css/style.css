@@ -50,6 +50,7 @@ a:focus {
 }
 .container-relative {
     position: relative;
+    z-index: 1;
 }
 .cart-sum-block {
     display: flex;
@@ -86,6 +87,7 @@ a:focus {
 }
 .main-banner-block {
     margin-top: -68px;
+    position: relative;
 }
 .header-cart {
     width: 20%;
@@ -93,4 +95,69 @@ a:focus {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.navbar-default {
+    background-color: transparent;
+    border: none;
+    margin-bottom: 0;
+    position: absolute;
+    top: 100px;
+}
+.navbar-collapse {
+    padding: 0;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: #fdc32e;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: transparent;
+    color: #fff;
+}
+.navbar-default .navbar-nav > .active a::after {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background-color: #fdc32e;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.main-button-catalog {
+    display: inline-block;
+    background-color: #fdc32e;
+    color: #000;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 2px solid #fdc32e;
+    font-size: 20px;
+}
+.main-button-catalog a:hover {
+    background-color: transparent;
+    color: #fff;
+}
+.description-banner-block {
+    text-align: center;
+    width: 360px;
+    position: absolute;
+    top: 160px;
+    color: #fff;
+}
+.description-banner-block h1 {
+    font-weight: bold;
+    font-size: 38px;
+}
+.banner-description {
+    font-weight: bold;
+    font-size: 24px;
+    margin: 20px 0 30px 0;
+}
+.hand-back img {
+    width: 100%;
+}
+.hand-back {
+    padding-left: 14%;
+    margin: 40px 0;
 }
