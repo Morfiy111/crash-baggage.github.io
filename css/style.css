@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #000;
     font-size: 16px;
     line-height: 1.62;
@@ -268,4 +268,108 @@ a:focus {
 }
 .shares-item-active .shares-item-icon {
     padding: 80px 30px 20px 20px;
+}
+.center-title {
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 0;
+}
+.fotorama__thumbs_previews {
+    background-color: transparent;
+}
+.catalog-items-title {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+.catalog-flex-block {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+.catalog-gallery {
+    width: 42%;
+}
+.flex-catalog-items-min {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 1px;
+}
+.catalog-items-min {
+    width: 16%;
+    margin-bottom: 10px;
+}
+.catalog-items-min img {
+    width: 100%;
+}
+.catalog-items-block {
+    width: 30%;
+}
+.catalog-property {
+    width: 23%;
+    margin-top: 25px;
+    padding-left: 20px;
+    border-left: 1px solid #e2e2e2;
+}
+.catalog-items-min:hover {
+    outline: 1px solid #e2e2e2;
+}
+.btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary, .btn-default.active, .btn-default.active:hover, .btn-primary.active:hover, .btn-primary:hover, .btn-default:hover, .btn-default.active:focus, .btn-default:active:focus, .btn-primary:active:hover {
+    background-color: #fdc32e;
+    border: none;
+    color: #333;
+    box-shadow: none;
+}
+.rabs label {
+    width: auto;
+    text-align: center;
+}
+
+.rabs label {
+    background-color: transparent;
+    display: inline-block;
+    color: #000;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-weight: normal;
+    white-space: inherit;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn-primary, .btn-default, .btn-default:focus, .btn-default.focus {
+    border: none;
+}
+.btn-default:focus, .btn-default.focus {
+    background-color: #fdc32e;
+}
+.btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default, .btn-default.active.focus  {
+    color: #000;
+    background-color: #fdc32e;
+    border-color: #fdc32e;
+    outline: none;
+}
+.form .rabs {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    justify-content: space-between;
+}
+.size-title {
+    margin-bottom: 15px;
+}
+.price-block-stage {
+    margin: 30px 0;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 30px;
+    box-shadow: 0px 0px 31px 0px rgba(119,119,119,0.66);
+    font-weight: bold;
+    position: relative;
+}
+.price-block-stage img {
+    position: absolute;
+    top: -6px;
+    right: -53px;
 }
