@@ -203,6 +203,7 @@ a:focus {
 .shares-right {
     text-align: right;
     font-weight: bold;
+    font-size: 36px;
 }
 .shares-item {
     background-color: #fdc32e;
@@ -272,7 +273,8 @@ a:focus {
 .center-title {
     text-align: center;
     font-weight: bold;
-    margin: 40px 0;
+    margin: 60px 0;
+    font-size: 36px;
 }
 .fotorama__thumbs_previews {
     background-color: transparent;
@@ -391,4 +393,23 @@ a:focus {
 }
 .table-property {
     margin-bottom: 40px;
+}
+.advantages-item {
+    border: 1px solid #e2e2e2;
+    width: 19.5%;
+    position: relative;
+}
+.flex-advantages {
+    display: flex;
+    justify-content: space-between;
+}
+.advantages-item img {
+    width: 100%;
+}
+.description-advantages {
+    position: absolute;
+}
+.advantages-item .description-advantages:first-child {
+    border-left: 1px solid #e2e2e2;
+    display: block;
 }
