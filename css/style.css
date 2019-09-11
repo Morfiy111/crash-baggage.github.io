@@ -494,6 +494,31 @@ a:focus {
 }
 .banner-baggage-block {
     margin-top: 60px;
+    margin-bottom: -150px;
+}
+.footer-page {
+    background-color: #fdc32e;
+}
+.footer-flex-block a {
+    color: #000;
+    display: block;
+}
+.footer-flex-block {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px;
+}
+.grey-background {
+    background-color: #f8f8f8;
+    padding: 200px 0 60px 0;
+}
+.bottom-text-center {
+    text-align: center;
+}
+.bold-bottom-text {
+    font-weight: bold;
+    font-size: 39px;
+    margin-bottom: 40px;
 }
 @media (min-width: 1200px) {
     .container {
