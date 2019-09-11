@@ -2,7 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #000;
     font-size: 16px;
-    line-height: 1.62;
+    line-height: 1.22;
 }
 a, button {
     transition: all .3s linear;
@@ -402,14 +402,70 @@ a:focus {
 .flex-advantages {
     display: flex;
     justify-content: space-between;
+    margin: 100px 0;
 }
 .advantages-item img {
     width: 100%;
 }
 .description-advantages {
     position: absolute;
+    color: #767373;
 }
-.advantages-item .description-advantages:first-child {
-    border-left: 1px solid #e2e2e2;
-    display: block;
+.advantages-item:first-child .description-advantages, .advantages-item:nth-child(3) .description-advantages, .advantages-item:nth-child(5) .description-advantages {
+    border-left: 3px solid #e2e2e2;
+    width: 100px;
+    right: 33%;
+    padding-left: 15px;
+    padding-top: 16px;
+}
+.advantages-item:first-child .description-advantages .description-relative, .advantages-item:nth-child(3) .description-advantages .description-relative, .advantages-item:nth-child(5) .description-advantages .description-relative {
+    position: relative;
+    top: 27px;
+}
+.advantages-item:nth-child(2) .description-advantages, .advantages-item:nth-child(4) .description-advantages {
+    border-left: 3px solid #e2e2e2;
+    width: 100px;
+    right: 33%;
+    top: -66px;
+    padding-left: 15px;
+    padding-bottom: 16px;
+}
+.orange-baggage-back {
+    background-color: #fdc32e;
+    height: 420px;
+}
+.delivery-image-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.delivery-image-form {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    height: 390px;
+    justify-content: center;
+    margin: 0 -50px;
+    position: relative;
+    left: 14px;
+}
+.delivery-baggage, .delivery-image-back {
+    z-index: 1;
+}
+.title-form-delivery {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.title-form-delivery .yellow-text-item {
+    color: #fdc32e;
+}
+.delivery-text-line {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.form-text-delivery-small {
+    padding: 0 54px 0 38px;
 }
