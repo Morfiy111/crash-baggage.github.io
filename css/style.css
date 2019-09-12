@@ -677,6 +677,20 @@ button.close {
     padding: 15px 10px;
     margin-bottom: 15px;
 }
+.send-title-block {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.send-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.cart-order-block {
+    position: relative;
+    top: 8px;
+}
 @media (min-width: 1200px) {
     .container {
         padding-right: 0;
