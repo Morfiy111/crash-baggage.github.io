@@ -204,13 +204,20 @@ a:focus {
     width: 290px;
 }
 .main-banner-block {
-    background-image: url("../images/banner.png");
+    /*background-image: url("../images/banner.png");
     width: auto;
     height: 777px;
     background-position: center top;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
     position: relative;
+}
+.center-image-banner img {
+    text-align: center;
+    height: 100%;
+    max-width: 100%;
+    width: auto;
+    object-fit: cover;
 }
 .relative-container {
     position: relative;
@@ -698,16 +705,5 @@ button.close {
     }
     .modal-lg {
         width: 1050px;
-    }
-}
-@media(max-width: 1398px) {
-    .main-banner-block {
-        height: 666px;
-    }
-    .navbar-default {
-        top: 103px;
-    }
-    .description-banner-block {
-        top: 160px;
     }
 }
