@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crash-baggage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="441" column="48" selection-start-line="441" selection-start-column="48" selection-end-line="441" selection-end-column="48" />
+            <state relative-caret-position="136">
+              <caret line="353" column="35" selection-start-line="353" selection-start-column="16" selection-end-line="353" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -38,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="520" column="24" selection-start-line="520" selection-start-column="24" selection-end-line="520" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="583" column="18" selection-start-line="583" selection-start-column="18" selection-end-line="583" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -139,18 +139,19 @@
       <workItem from="1568182325516" duration="4707000" />
       <workItem from="1568194331516" duration="2418000" />
       <workItem from="1568198773190" duration="2390000" />
-      <workItem from="1568207015775" duration="2241000" />
+      <workItem from="1568207015775" duration="2723000" />
+      <workItem from="1568266562011" duration="7929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55796000" />
+    <option name="totallyTimeSpent" value="64207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="265" y="22" width="1242" height="676" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28282827" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28787878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -187,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crash-baggage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="441" column="48" selection-start-line="441" selection-start-column="48" selection-end-line="441" selection-end-column="48" />
+        <state relative-caret-position="136">
+          <caret line="353" column="35" selection-start-line="353" selection-start-column="16" selection-end-line="353" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -197,8 +198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="520" column="24" selection-start-line="520" selection-start-column="24" selection-end-line="520" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="583" column="18" selection-start-line="583" selection-start-column="18" selection-end-line="583" selection-end-column="18" />
         </state>
       </provider>
     </entry>
