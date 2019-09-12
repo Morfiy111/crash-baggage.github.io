@@ -141,7 +141,7 @@ a:focus {
     background-color: #fdc32e;
     color: #000;
     padding: 15px 60px;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 2px solid #fdc32e;
     font-size: 24px;
 }
@@ -590,9 +590,99 @@ a:focus {
 .footer-address {
     width: 213px;
 }
+.row-goods-block {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.goods-modal-img img {
+    width: 100%;
+}
+.goods-modal-img {
+    width: 15%;
+}
+.goods-property-modal-title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.goods-information-block {
+    width: 81%;
+}
+.goods-property-modal {
+    display: flex;
+    justify-content: space-between;
+}
+.goods-property-modal td {
+    padding: 5px 30px 5px 0;
+}
+.send-modal-flex {
+    display: flex;
+    width: 100%;
+}
+.send-modal-goods {
+    width: 70%;
+    padding: 15px;
+}
+.send-modal-info {
+    background-color: #240909;
+    color: #fff;
+    width: 30%;
+    padding: 30px;
+}
+.modal-body {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: -3px;
+    padding: 0;
+}
+.modal-content {
+    background-color: transparent;
+    border: 35px solid rgba(253, 195, 46, 0.7);
+    border-radius: 10px;
+}
+button.close {
+    position: absolute;
+}
+.sum-modal-price {
+    font-weight: bold;
+}
+.price-sum {
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid #e2e2e2;
+    padding: 20px 0;
+}
+.button-close-modal a {
+    color: #000;
+    border: 2px solid #fdc32e;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.button-close-modal a:hover {
+    background-color: #fdc32e;
+}
+.send-modal-title {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+.send-modal-info input {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 10px;
+    margin-bottom: 15px;
+}
 @media (min-width: 1200px) {
     .container {
         padding-right: 0;
         padding-left: 0;
+    }
+    .modal-lg {
+        width: 1050px;
     }
 }
