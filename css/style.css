@@ -731,7 +731,7 @@ button.close {
 }
 .shares-item:first-child {
     background-color: #fd812e;
-    padding-top: 40px;
+    padding: 40px 20px 20px 20px;
 }
 .shares-item:first-child .shares-item-icon {
     justify-content: center;
