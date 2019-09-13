@@ -572,13 +572,15 @@ a:focus {
 .social-links {
     display: flex;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 .social-links a {
-    margin: 0 10px;
+    margin: 0 7px;
+    color: #000;
+    font-size: 30px;
 }
-.social-links img {
-    width: 33px;
+.social-links a:hover {
+    color: #fff;
 }
 .footer-btn button {
     padding: 15px;
@@ -706,6 +708,9 @@ button.close {
     background: transparent;
 }
 .btn-catalog-buy .main-button-catalog:hover img {
+    filter: invert(100%);
+}
+.social-links img:hover {
     filter: invert(100%);
 }
 @media (min-width: 1200px) {
