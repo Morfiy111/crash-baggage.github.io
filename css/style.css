@@ -698,6 +698,16 @@ button.close {
     position: relative;
     top: 8px;
 }
+.shares-item-title {
+    color: #fff;
+}
+.fotorama__thumbs_previews .fotorama__thumb-border {
+    border-color: #e2e2e2;
+    background: transparent;
+}
+.btn-catalog-buy .main-button-catalog:hover img {
+    filter: invert(100%);
+}
 @media (min-width: 1200px) {
     .container {
         padding-right: 0;
