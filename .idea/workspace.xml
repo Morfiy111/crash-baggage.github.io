@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="499bdd0d-5b2c-453d-8548-93715b8a6927" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crash-baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/crash-baggage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/social-fb.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/social-fb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/social-inst.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/social-inst.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/social-vk.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/social-vk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crash-baggage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            <state relative-caret-position="112">
+              <caret line="277" column="105" selection-start-line="277" selection-start-column="105" selection-end-line="277" selection-end-column="105" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -40,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            <state relative-caret-position="150">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="579" column="20" selection-start-line="579" selection-start-column="20" selection-end-line="579" selection-end-column="20" />
+            <state relative-caret-position="23">
+              <caret line="120" column="15" selection-start-line="120" selection-start-column="15" selection-end-line="120" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -62,8 +61,10 @@
       <find>rabs</find>
       <find>orange-baggage-back</find>
       <find>каталог</find>
-      <find>social-links</find>
       <find>soc</find>
+      <find>social-links</find>
+      <find>shares-item-active</find>
+      <find>foto</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -80,8 +81,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="153" />
+    <option name="x" value="279" />
+    <option name="y" value="102" />
     <option name="width" value="1242" />
     <option name="height" value="676" />
   </component>
@@ -91,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +114,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,18 +154,19 @@
       <workItem from="1568207015775" duration="2723000" />
       <workItem from="1568266562011" duration="17877000" />
       <workItem from="1568294150050" duration="1208000" />
-      <workItem from="1568370955220" duration="1839000" />
+      <workItem from="1568370955220" duration="2855000" />
+      <workItem from="1568374765816" duration="1581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77202000" />
+    <option name="totallyTimeSpent" value="79799000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="153" width="1242" height="676" extended-state="0" />
+    <frame x="279" y="102" width="1242" height="676" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2979798" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3030303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -198,15 +200,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        <state relative-caret-position="150">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crash-baggage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        <state relative-caret-position="112">
+          <caret line="277" column="105" selection-start-line="277" selection-start-column="105" selection-end-line="277" selection-end-column="105" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -215,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="579" column="20" selection-start-line="579" selection-start-column="20" selection-end-line="579" selection-end-column="20" />
+        <state relative-caret-position="23">
+          <caret line="120" column="15" selection-start-line="120" selection-start-column="15" selection-end-line="120" selection-end-column="15" />
         </state>
       </provider>
     </entry>
