@@ -145,6 +145,7 @@ a:focus {
     border-radius: 10px;
     border: 2px solid #fdc32e;
     font-size: 20px;
+    text-align: center;
 }
 .main-button-catalog:hover {
     background-color: transparent;
@@ -726,6 +727,9 @@ button.close {
 }
 .shares-item:first-child .shares-item-icon {
     justify-content: center;
+}
+.send-modal-info .main-button-catalog {
+    display: block;
 }
 @media (min-width: 1200px) {
     .container {
