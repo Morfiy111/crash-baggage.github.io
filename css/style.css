@@ -217,7 +217,6 @@ a:focus {
     text-align: center;
     height: 100%;
     max-width: 100%;
-    width: auto;
     object-fit: cover;
 }
 .relative-container {
