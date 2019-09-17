@@ -297,7 +297,7 @@ a:focus {
 .center-title {
     text-align: center;
     font-weight: bold;
-    margin:30px 0 60px 0;
+    margin: 40px 0 40px 0;
     font-size: 32px;
 }
 .fotorama__thumbs_previews {
@@ -427,7 +427,7 @@ a:focus {
 .flex-advantages {
     display: flex;
     justify-content: space-between;
-    margin: 160px 0;
+    margin: 100px 0;
 }
 .advantages-item img {
     width: 100%;
