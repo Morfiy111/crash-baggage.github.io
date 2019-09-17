@@ -740,3 +740,8 @@ button.close {
         width: 1050px;
     }
 }
+@media(max-width: 1199px) {
+    .center-image-banner img {
+        height: 768px;
+    }
+}
