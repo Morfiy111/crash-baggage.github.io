@@ -39,12 +39,6 @@ a:focus {
 .header-work-time-block, .header-address-block, .header-phone {
     display: flex;
 }
-.header-work-time-block {
-    width: 17%;
-}
-.header-address-block {
-    width: 24%;
-}
 .header-icon {
     margin-right: 20px;
 }
@@ -90,14 +84,12 @@ a:focus {
 }
 .header-logo {
     text-align: center;
-    width: 20%;
 }
 .main-banner-block {
     margin-top: -94px;
     position: relative;
 }
 .header-cart {
-    width: 20%;
     justify-content: center;
     display: flex;
     flex-direction: column;
@@ -181,7 +173,7 @@ a:focus {
 }
 .hand-back {
     padding-left: 25%;
-    margin: 40px 0;
+    margin: 0px 0 40px 0;
 }
 .suitcase-flex {
     display: flex;
@@ -234,7 +226,7 @@ a:focus {
 .shares-right {
     text-align: right;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 32px;
 }
 .shares-item {
     background-color: #fdc32e;
@@ -305,8 +297,8 @@ a:focus {
 .center-title {
     text-align: center;
     font-weight: bold;
-    margin: 60px 0;
-    font-size: 36px;
+    margin:30px 0 60px 0;
+    font-size: 32px;
 }
 .fotorama__thumbs_previews {
     background-color: transparent;
@@ -560,11 +552,11 @@ a:focus {
 }
 .bold-bottom-text {
     font-weight: bold;
-    font-size: 36px;
+    font-size: 32px;
     margin-bottom: 40px;
 }
 .bottom-text-center p {
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 18px;
 }
 .copyright-block {
