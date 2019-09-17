@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="499bdd0d-5b2c-453d-8548-93715b8a6927" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="499bdd0d-5b2c-453d-8548-93715b8a6927" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mislich" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Victoria-plast" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,16 +151,15 @@
       <workItem from="1568294150050" duration="1208000" />
       <workItem from="1568370955220" duration="2855000" />
       <workItem from="1568374765816" duration="2641000" />
-      <workItem from="1568699002157" duration="970000" />
+      <workItem from="1568699002157" duration="1081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81829000" />
+    <option name="totallyTimeSpent" value="81940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="279" y="102" width="1242" height="676" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30808082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
