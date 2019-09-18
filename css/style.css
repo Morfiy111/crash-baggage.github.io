@@ -690,6 +690,7 @@ button.close {
     font-weight: bold;
     padding: 15px 10px;
     margin-bottom: 15px;
+    color: #000;
 }
 .send-title-block {
     display: flex;
@@ -1167,54 +1168,43 @@ button.close {
     }
 
     .btn-catalog-buy .main-button-catalog {
-        font-size: 10px;
+        font-size: 12px;
         padding: 10px;
     }
-
     .btn-catalog-buy .main-button-catalog img {
         width: 20px;
     }
-
     .price-block-stage {
         width: 44%;
     }
-
     .price-block-stage-mobile .btn-catalog-buy {
         width: 48%;
     }
-
     .price-block-stage img {
         width: 42px;
         top: 2px;
         right: -24px;
     }
-
     .table-property td {
         padding: 7px 0;
     }
-
     .flex-catalog-items-title-block {
         width: 100%;
     }
-
     .catalog-items-title {
         text-align: center;
     }
-
     .advantages-item {
         width: 42%;
         margin-bottom: 50px;
     }
-
     .description-relative {
         font-size: 12px;
     }
-
     .flex-advantages .advantages-item .description-advantages {
         right: 10%;
         top: -54px;
     }
-
     .advantages-item:nth-child(4) .description-advantages .description-relative, .advantages-item:nth-child(5) .description-advantages .description-relative {
         top: -16px;
     }
