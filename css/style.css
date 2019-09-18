@@ -1016,4 +1016,74 @@ button.close {
     .center-image-banner img {
         height: 510px;
     }
+    .navbar-default .navbar-collapse {
+        border: none;
+    }
+    .navbar-collapse {
+        position: absolute;
+    }
+    .navbar-nav {
+        column-count: 2;
+    }
+    .suitcase-certificate-title h2 {
+        font-size: 20px;
+    }
+    .suitcase-certificate-desk {
+        font-size: 16px;
+    }
+    .suitcase-certificate-block {
+        width: 48%;
+    }
+    .suitcase-image {
+        width: 48%;
+    }
+    .suitcase-certificate-block .main-button-catalog {
+        font-size: 14px;
+        width: 100%;
+        padding: 10px;
+    }
+    .suitcase-certificate-desk {
+        font-weight: bold;
+        margin: 20px 0;
+    }
+    .suitcase-flex {
+        padding-bottom: 10px;
+    }
+    .shares-item {
+        width: 90%;
+        display: flex;
+        padding: 15px;
+        align-items: flex-start;
+        height: 180px;
+        margin-bottom: -10px;
+    }
+    .shares-item-desk {
+        font-size: 14px;
+    }
+    .shares-item .shares-item-title {
+        font-size: 16px;
+    }
+    .shares-item-icon img {
+        width: 70px;
+    }
+    .shares-item:first-child {
+        padding: 15px;
+    }
+    .shares-item:nth-child(4), .shares-item:nth-child(3), .shares-item:nth-child(2) {
+        padding-top: 15px;
+    }
+    .shares-item:nth-child(4) {
+        z-index: 4;
+    }
+    .shares-item:nth-child(3) {
+        z-index: 3;
+        margin-left: inherit;
+    }
+    .shares-item:nth-child(2) {
+        z-index: 2;
+    }
+    .shares-item:nth-child(1) {
+        z-index: 1;
+        margin-left: inherit;
+    }
 }
