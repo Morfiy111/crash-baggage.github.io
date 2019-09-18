@@ -1086,4 +1086,100 @@ button.close {
         z-index: 1;
         margin-left: inherit;
     }
+    .catalog-flex-block {
+        flex-wrap: wrap;
+    }
+    .catalog-gallery {
+        width: 100%;
+    }
+    .catalog-property {
+        width: 100%;
+        padding-left: 0;
+        border: none;
+    }
+    .size-title {
+        font-size: 12px;
+        float: left;
+        position: relative;
+        top: 12px;
+    }
+    .rabs label {
+        font-size: 12px;
+    }
+    .rabs .btn-default:first-child {
+        width: 90px;
+    }
+    .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary, .btn-default.active, .btn-default.active:hover, .btn-primary.active:hover, .btn-primary:hover, .btn-default:hover, .btn-default.active:focus, .btn-default:active:focus, .btn-primary:active:hover {
+        border: 2px solid #fdc32e;
+    }
+    .rabs label {
+        border: 2px solid #fdc32e;
+        padding: 0px 12px;
+        margin: 0 4px;
+    }
+    .price-block-stage-mobile {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .price-block-stage {
+        font-size: 18px;
+    }
+    .btn-catalog-buy .main-button-catalog {
+        font-size: 10px;
+        padding: 10px;
+    }
+    .btn-catalog-buy .main-button-catalog img {
+        width: 20px;
+    }
+    .price-block-stage {
+        width: 44%;
+    }
+    .price-block-stage-mobile .btn-catalog-buy {
+        width: 48%;
+    }
+    .price-block-stage img {
+        width: 42px;
+        top: 2px;
+        right: -24px;
+    }
+    .table-property td {
+        padding: 7px 0;
+    }
+    .flex-catalog-items-title-block {
+        width: 100%;
+    }
+    .catalog-items-title {
+        text-align: center;
+    }
+    .advantages-item {
+        width: 42%;
+        margin-bottom: 50px;
+    }
+    .description-relative {
+        font-size: 12px;
+    }
+    .flex-advantages .advantages-item .description-advantages {
+        right: 10%;
+        top: -54px;
+    }
+    .advantages-item:nth-child(4) .description-advantages .description-relative, .advantages-item:nth-child(5) .description-advantages .description-relative {
+        top: -16px;
+    }
+    .flex-advantages {
+        margin: 100px 0 20px 0;
+    }
+    .orange-baggage-back {
+        height: auto;
+        margin-bottom: 0;
+    }
+    .flex-instagram {
+        width: 100%;
+    }
+    .bold-bottom-text {
+        font-size: 18px;
+    }
+    .bottom-text-center p {
+        font-size: 14px;
+    }
 }
