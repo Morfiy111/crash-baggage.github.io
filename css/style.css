@@ -968,10 +968,10 @@ button.close {
         font-size: 10px;
     }
     .header-logo {
-        margin-top: -13px;
+        margin-top: -15px;
     }
     .header-cart {
-        align-items: flex-start;
+        align-items: flex-end;
         padding-left: 13px;
     }
     .cart-image-number {
@@ -1005,7 +1005,7 @@ button.close {
         height: 5px;
     }
     .header-flex-block {
-        padding-top: 7px;
+        padding-top: 10px;
     }
     .header-flex-block {
         align-items: flex-start;
