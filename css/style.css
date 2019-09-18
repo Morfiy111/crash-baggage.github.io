@@ -751,6 +751,9 @@ button.close {
     .center-image-banner img {
         height: 768px;
     }
+    .shares-item {
+        padding: 20px 20px 20px 29px;
+    }
 }
 @media(max-width: 991px) {
     .shares-block-flex {
