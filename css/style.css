@@ -411,7 +411,7 @@ a:focus {
 .btn-catalog-buy .main-button-catalog {
     padding: 15px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 .btn-catalog-buy .main-button-catalog:hover {
