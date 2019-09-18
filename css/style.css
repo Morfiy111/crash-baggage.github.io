@@ -947,6 +947,10 @@ button.close {
     }
     .navbar-default {
         position: inherit;
+        width: 33%;
+    }
+    .header-cart {
+        width: 33%;
     }
     .cart-img-sum {
         font-size: 10px;
@@ -964,22 +968,52 @@ button.close {
         font-size: 10px;
     }
     .header-logo {
-        margin-top: -26px;
+        margin-top: -13px;
     }
     .header-cart {
         align-items: flex-start;
+        padding-left: 13px;
     }
     .cart-image-number {
         margin-right: 10px;
     }
     .cart-absolut-number {
         right: -10px;
-        top: -8px;
+        top: -6px;
     }
     .container-relative {
         padding: 0 15px;
     }
     .navbar-toggle {
         margin: 0;
+    }
+    .navbar-toggle {
+        float: none;
+    }
+    .navbar-default .navbar-toggle {
+        border: none;
+        margin-left: 10px;
+    }
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+        background-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fdc32e;
+    }
+    .navbar-toggle .icon-bar {
+        width: 30px;
+        height: 5px;
+    }
+    .header-flex-block {
+        padding-top: 7px;
+    }
+    .header-flex-block {
+        align-items: flex-start;
+    }
+    .cart-sum-block {
+        margin-bottom: 3px;
+    }
+    .center-image-banner img {
+        height: 510px;
     }
 }
