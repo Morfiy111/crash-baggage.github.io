@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="499bdd0d-5b2c-453d-8548-93715b8a6927" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/crash-baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/crash-baggage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="1182" column="21" selection-start-line="1182" selection-start-column="21" selection-end-line="1182" selection-end-column="21" />
+            <state relative-caret-position="292">
+              <caret line="1214" column="23" selection-start-line="1214" selection-start-column="23" selection-end-line="1214" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -160,12 +159,12 @@
       <workItem from="1568708098344" duration="843000" />
       <workItem from="1568712278144" duration="6916000" />
       <workItem from="1568785596781" duration="354000" />
-      <workItem from="1568788698900" duration="14552000" />
+      <workItem from="1568788698900" duration="15647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104605000" />
+    <option name="totallyTimeSpent" value="105700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="142" y="222" width="1242" height="676" extended-state="0" />
@@ -223,8 +222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="1182" column="21" selection-start-line="1182" selection-start-column="21" selection-end-line="1182" selection-end-column="21" />
+        <state relative-caret-position="292">
+          <caret line="1214" column="23" selection-start-line="1214" selection-start-column="23" selection-end-line="1214" selection-end-column="23" />
         </state>
       </provider>
     </entry>
