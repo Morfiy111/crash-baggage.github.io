@@ -741,6 +741,31 @@ button.close {
 .image-baggage-tablet {
     display: none;
 }
+.share-block-icon {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.share-block-item {
+    text-align: center;
+}
+.share-block-item-grey {
+    background-color: #f8f8f8;
+}
+.share-page-block {
+    display: flex;
+    margin-bottom: 40px;
+}
+.share-block-item {
+    padding: 20px;
+}
+.share-col {
+    width: 50%;
+}
+.share-page-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
 @media (min-width: 1200px) {
     .container {
         padding-right: 0;
@@ -1316,5 +1341,11 @@ button.close {
     .send-modal-title {
         font-size: 16px;
         margin-bottom: 20px;
+    }
+    .share-page-block {
+        flex-wrap: wrap;
+    }
+    .share-col {
+        width: 100%;
     }
 }
