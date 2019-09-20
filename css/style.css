@@ -791,6 +791,31 @@ button.close {
 .title-delivery-page {
     margin: 0 0 30px 74px;
 }
+.contact-link-black {
+    align-items: flex-start;
+    margin-bottom: 40px;
+}
+.contact-link-black a {
+    color: #000;
+}
+.contact-flex-block {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.contact-col-info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.contact-col-map {
+    width: 40%;
+    padding-left: 20px;
+}
+.contact-col-map img {
+    width: 100%;
+}
 @media (min-width: 1200px) {
     .container {
         padding-right: 0;
@@ -979,6 +1004,15 @@ button.close {
     }
     .footer-logo {
         bottom: 40px;
+    }
+    .contact-flex-block {
+        flex-direction: column;
+    }
+    .contact-col-info {
+        width: 100%;
+    }
+    .contact-col-map {
+        width: 100%;
     }
 }
 @media(max-width: 767px) {
