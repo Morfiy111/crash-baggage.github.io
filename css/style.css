@@ -1363,6 +1363,7 @@ button.close {
     }
     .cart-order-block {
         top: 0;
+        margin-right: 10px;
     }
     .send-title {
         font-size: 16px;
