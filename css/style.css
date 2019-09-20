@@ -768,6 +768,7 @@ button.close {
 }
 .deliv-block-item {
     text-align: center;
+    margin-bottom: 40px;
 }
 .delivery-row {
     margin-bottom: 15px;
@@ -786,6 +787,9 @@ button.close {
 .grey-background-delivery {
     background-color: #f8f8f8;
     padding: 40px 0;
+}
+.title-delivery-page {
+    margin: 0 0 30px 74px;
 }
 @media (min-width: 1200px) {
     .container {
