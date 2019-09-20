@@ -1328,6 +1328,7 @@ button.close {
         font-size: 14px;
         border-bottom: 1px solid #fff;
         margin-bottom: 15px;
+        padding-bottom: 10px;
     }
     .footer-address {
         width: 100%;
