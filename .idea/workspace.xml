@@ -7,7 +7,6 @@
     <list default="true" id="499bdd0d-5b2c-453d-8548-93715b8a6927" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crash-baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/crash-baggage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crash-baggage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="584" column="70" selection-start-line="584" selection-start-column="70" selection-end-line="584" selection-end-column="70" />
+            <state relative-caret-position="84">
+              <caret line="718" column="55" selection-start-line="718" selection-start-column="55" selection-end-line="718" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -154,7 +153,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Victoria-plast" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../world-of-trees" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -204,18 +203,19 @@
       <workItem from="1568958346874" duration="4964000" />
       <workItem from="1568978024522" duration="1662000" />
       <workItem from="1568982307845" duration="619000" />
-      <workItem from="1570185700774" duration="432000" />
+      <workItem from="1570185700774" duration="474000" />
+      <workItem from="1570186247645" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125428000" />
+    <option name="totallyTimeSpent" value="125479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="428" y="65" width="1242" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38299662" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38973063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -288,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crash-baggage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="584" column="70" selection-start-line="584" selection-start-column="70" selection-end-line="584" selection-end-column="70" />
+        <state relative-caret-position="84">
+          <caret line="718" column="55" selection-start-line="718" selection-start-column="55" selection-end-line="718" selection-end-column="55" />
         </state>
       </provider>
     </entry>
